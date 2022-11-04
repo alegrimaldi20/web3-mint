@@ -2,8 +2,6 @@
 
 ![cap8](https://user-images.githubusercontent.com/92336281/193180108-47f031ee-8f7a-4368-84be-dca02747e253.png)
 
-Example of Web3 Mint Website
-
 ```npm install```
 
 
